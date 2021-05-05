@@ -4,30 +4,43 @@
     box-sizing: border-box;
 }
 
-#hrodnenskaia-voblasts:hover {
+.fil0:hover {
     fill: blue;
 }
 
-#vitsebskaia-voblasts:hover {
-    fill: blue;
+.fil0{
+    fill: #7FFFD4;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
 }
 
-#homelskaia-voblasts:hover {
-    fill: blue;
+.list {
+    margin-left: -150px;
 }
 
-#mahiliouskaia-voblasts:hover {
-    fill: blue;
+#bathroom:hover {
+    fill: #254d9b;
+    opacity: .5;
 }
 
-#minskaia-voblasts:hover {
-    fill: blue;
+#bedroom:hover {
+    fill: #cb5822;
+    opacity: .5;
 }
 
-#brestskaia-voblasts:hover {
-    fill: blue;
+#kitchen:hover {
+    fill: #c321a8;
+    opacity: .5;
 }
 
-#horad-minsk:hover {
-    fill: blue;
+#vestibule:hover {
+    fill: #37c9d6;
+    opacity: .5;
+}
+
+#livingroom:hover {
+    fill: green;
+    opacity: .5;
 }
